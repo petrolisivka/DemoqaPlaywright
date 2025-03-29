@@ -1,2 +1,2 @@
 # DemoQA
-My repository with automation tests for the demoqa.com website
+My repository with Playwright automation tests for the demoqa.com website
